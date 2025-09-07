@@ -22,7 +22,7 @@ Este é um **projeto simples de Calculadora de IMC** (Índice de Massa Corporal)
 
 ## Visualizar
 
-- 
+- https://caioxdev.github.io/Projeto-Calculadora-IMC-Simples/
 
 ## Observações
 
