@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r121/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vanta/dist/vanta.waves.min.js"></script>
+    <script src="index.js" defer></script>
+    <title>Calculadora IMC</title>
+</head>
+<body>
+    <div id="background"></div> <!--FUNDO-->
+
+    <main class="container">
+            <h1>Calculadora IMC</h1>
+            <form>
+                <input class="perguntas num1" type="text" placeholder="Digite seu peso">
+                <input class="perguntas num2" type="text" placeholder="Digite sua altura">
+                <button id="btn-calcular">Calcular</button>
+                <p id="resultado"><span id="numero"></span></p>
+                <p id="classificacao"></p>
+            </form>
+    </main>
+</body>
+</html>
