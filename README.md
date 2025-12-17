@@ -2,7 +2,7 @@
 
 > ⚠️ Este projeto foi feito apenas como estudo para entender melhor o JavaScript.  
 > Não está organizado em pastas adequadas, e o foco é apenas praticar lógica, manipulação e eventos.
-> O background já peguei pronto, pois não estou focado em aprender fazer animações de background
+
 
 ## Sobre o Projeto
 
